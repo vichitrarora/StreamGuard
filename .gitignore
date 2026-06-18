@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+
+# Configuration
+prml/config.ini
+
+# Large files and datasets
+prml/dataset/
+prml/saved_model/
